@@ -22,6 +22,8 @@ This project demonstrates the application of computer vision techniques in real-
 ## Output
 - Detects faces and displays bounding boxes
 - Records attendance with time
+- <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/60308106-750a-41a5-9984-70c9f317f12d" />
+
 
 ## Future Improvements
 - Add face recognition (identify specific individuals)
