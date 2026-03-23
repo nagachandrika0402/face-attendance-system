@@ -1,3 +1,4 @@
+## 🚀 Project Overview
 # Face Detection Attendance System
 
 This project implements an automated attendance system using face detection with OpenCV.
